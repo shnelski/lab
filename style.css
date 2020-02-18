@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://files.123freevectors.com/wp-content/original/157804-abstract-turquoise-and-white-graphic-background.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    
+    position: relative;
+    
+  }
+  .top-center {
+    position: absolute; 
+    top: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+  }
+  .bot-center {
+    position: absolute; 
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    
+  }
+  #h1-white{
+    text-align: center;
+    color:white;   
+  }
+  h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    color:black;  
+    font-family: "Times New Roman", Times, serif; 
+  }
